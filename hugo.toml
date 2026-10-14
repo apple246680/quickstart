@@ -2,11 +2,7 @@ baseURL = 'https://11451487.xyz/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = ["github.com/D-Sketon/hugo-theme-reimu"]
-baseURL = 'https://example.org/'
 languageCode = 'en'
-title = 'My New Hugo Site'
-theme = 'hugo-theme-reimu'
-
 defaultContentLanguage = 'en'
 [languages]
 [languages.en]
